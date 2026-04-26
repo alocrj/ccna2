@@ -214,7 +214,7 @@ dial-peer voice 2 pots
 dial-peer voice 3 pots
    destination-pattern 6202
    port 0/0/2
-dial-peer voice 4 potsn
+dial-peer voice 4 pots
    destinatio-pattern 6203
    port 0/0/3
 end
